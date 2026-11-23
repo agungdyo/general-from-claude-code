@@ -1,0 +1,18 @@
+{
+  "name": "general-from-claude-code",
+  "description": "A faceless clipping desk for any niche: find trends and moments, cut captioned vertical clips, check the rules, learn from real numbers.",
+  "owner": {
+    "name": "Bodila51",
+    "url": "https://github.com/Bodila51"
+  },
+  "plugins": [
+    {
+      "name": "general-from-claude-code",
+      "source": "./",
+      "description": "Run a faceless clipping page for any niche with the fewest human actions. You approve every post.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["clipping", "video", "shorts", "general"]
+    }
+  ]
+}

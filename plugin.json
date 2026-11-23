@@ -1,0 +1,9 @@
+{
+  "author": "Bodila51",
+  "description": "Run a faceless clipping page for any niche with the fewest human actions. You approve every post.",
+  "name": "general-from-claude-code",
+  "skills": [
+    "./skills"
+  ],
+  "version": "0.1.0"
+}
